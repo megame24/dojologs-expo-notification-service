@@ -1,0 +1,1 @@
+zip -r ../send-expo-notifications-function.zip . -x $(cat .npmignore | sed 's/#.*//' | tr '\n' ' ')

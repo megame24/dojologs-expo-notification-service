@@ -1,0 +1,23 @@
+{
+  "name": "dojologs-expo-notification-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megame24/dojologs-expo-notification-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megame24/dojologs-expo-notification-service/issues"
+  },
+  "homepage": "https://github.com/megame24/dojologs-expo-notification-service#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
